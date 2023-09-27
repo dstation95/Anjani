@@ -40,7 +40,6 @@
     "@emotion/styled": "^11.11.0",
     "@fontsource/poppins": "^4.5.9",
     "@material-tailwind/react": "^2.1.1",
-    "@mui/material": "^5.14.9",
     "autosuggest-highlight": "^3.1.1",
     "aws-sdk": "^2.799.0",
     "axios": "^0.21.1",
